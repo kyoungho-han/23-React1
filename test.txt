@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asd213
+=======
+asd213
+>>>>>>> 7e32f4c0db179bdbb8dedfeda4bbc062a025163a
